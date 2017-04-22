@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "bamazoncustomer.js",
+  "scripts": {
+    "test": "paddy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seayport/bamazon.git"
+  },
+  "author": "Sandy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seayport/bamazon/issues"
+  },
+  "homepage": "https://github.com/seayport/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
